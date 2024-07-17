@@ -12,8 +12,8 @@ function setup() {
 }
 
 function preload() {
-	bearImg = loadImage("/assets/bear.png");
-	bananaImg = loadImage("/assets/banana.png");
+	bearImg = loadImage("./assets/bear.png");
+	bananaImg = loadImage("./assets/banana.png");
 }
 
 function draw() {
